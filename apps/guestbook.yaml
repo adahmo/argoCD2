@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://https://github.com/adahmo/argoCD2.git' # Update to match your fork.
+    repoURL: 'https://github.com/adahmo/argoCD2.git' # Update to match your fork.
     path: guestbook
     targetRevision: HEAD
   destination:
